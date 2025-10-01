@@ -1,4 +1,6 @@
 # 📊 Cohort Analysis on Online Retail Customers
+![Customer Retention Heatmap](./Cus2.png
+![Cus1](./Cus1.png)
 
 This project is all about understanding **customer retention** using
 cohort analysis.\
