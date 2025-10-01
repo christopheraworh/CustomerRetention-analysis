@@ -1,5 +1,8 @@
 # 📊 Cohort Analysis on Online Retail Customers
 
+![Customer Retention Heatmap numbers](./retention_heatmap1.png)
+![Customer Retention Heatmap %](./retention_heatmap2.png)
+
 This project is all about understanding **customer retention** using
 cohort analysis.\
 I worked with the **UCI Online Retail Dataset** and explored how
@@ -47,38 +50,4 @@ customers behave over time after their very first purchase.
 -   You can spot when churn happens faster and use this to guide
     decisions on marketing or product strategy.
 
-------------------------------------------------------------------------
 
-## ▶️ How to run it yourself
-
-Clone this repo and install the requirements:
-
-``` bash
-git clone https://github.com/your-username/cohort-analysis.git
-cd cohort-analysis
-pip install -r requirements.txt
-```
-
-Run the analysis:
-
-``` bash
-python cohort_analysis.py
-```
-
-Or open the notebook in Jupyter/Colab if you prefer exploring
-interactively.
-
-------------------------------------------------------------------------
-
-## 🚀 Next ideas
-
--   Add revenue-based cohorts (not just customer counts).\
--   Compare seasonal effects on retention.\
--   Bring in other datasets like HR or SaaS subscriptions for broader
-    applications.
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-This project is under the MIT License. Feel free to use and adapt!
